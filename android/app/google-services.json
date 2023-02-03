@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260050957047",
+    "project_id": "coding-club-task1",
+    "storage_bucket": "coding-club-task1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260050957047:android:83f1456b880ca946c359f2",
+        "android_client_info": {
+          "package_name": "com.example.cc_task_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260050957047-a2ft48o08br4n0cpq77n2kb1390au74m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcuyyUGPhe2HEHryZJ6W6U2APaPUsnp9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260050957047-a2ft48o08br4n0cpq77n2kb1390au74m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
